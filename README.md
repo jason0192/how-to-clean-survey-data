@@ -1,1 +1,2 @@
-# how-to-clean-survey-data
+After making and conducting your survey, you need to analyze the results. These steps need strict attention to detail and, in some cases, information of statistics and laptop software system packages. however you conduct these steps can depend upon the scope of your study, your own capabilities, and therefore the audience to whom you would like to direct the work.
+ Learn more about [cleaning survey data](https://vizualsurvey.com/blogs/cleaning-survey-data/)
